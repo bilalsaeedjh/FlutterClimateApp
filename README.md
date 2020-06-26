@@ -1,5 +1,5 @@
-# FlutterBMIapp
-### This app is usesd to calculate the Body Mass Index of a human body.
+# ClimateInformationApp
+### This app is usesd to know about the current weather of any city in the entire World.
 ######By getting information from the user like his height,weight and age, we would show the results.
 Unique Standerized formula is used to calculate the BMI (Body Mass Index).######
 
