@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # climatic_apppp
 
 In this app, the current weather of any present in entire world could be checked.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+
+>>>>>>> 5e1199fa6a37da81f3ba19fcf087b85b58b1ffda
