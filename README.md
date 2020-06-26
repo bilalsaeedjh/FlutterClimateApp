@@ -1,20 +1,31 @@
-<<<<<<< HEAD
-# climatic_apppp
+# ClimateInformationApp
+### This app is usesd to know about the current weather of any city in the entire World.
+##By getting information from the user like his height,weight and age, we would show the results.
+Unique Standerized formula is used to calculate the BMI (Body Mass Index).##
 
-In this app, the current weather of any present in entire world could be checked.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![alt text](https://github.com/bilalsaeedjh/FlutterClimateApp/blob/master/images/ClimateAppGiff.gif?raw=true)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 
->>>>>>> 5e1199fa6a37da81f3ba19fcf087b85b58b1ffda
+## What you can learn from it?
+
+  > Interaction with Web APIs
+
+  > BottomNavigationBars
+  
+  > Widget Tree Structure
+  
+  > Using function and algorithims in flutter
+  
+  > TextAnimations
+  
+  > UrlLaunchers in Flutter
+  
+  > Using AwesomeFonts package in Flutter
+  
+  
+Find the tutorial on [Youtube](https://www.youtube.com/channel/UCZSgQGG74K2yuEDnbG4U1tQ?view_as=subscriber)
+
